@@ -1,0 +1,8 @@
+@media only screen and (max-width: 600px) {
+   
+	.line5 { padding: 5rem 0rem;}
+	.line5 .img-fluid { margin-bottom: 20px;}
+	.line7 .img-block {width: 100%; height: auto;} 
+	.line7 .img-block img {width: 100%;}
+	
+}
